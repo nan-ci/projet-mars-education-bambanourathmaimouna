@@ -1,8 +1,3 @@
-lienfigma:https://www.figma.com/design/1rcSYqGZQoK4BlB0lZuiMg/EduPlace?node-id=0-1&p=f&t=pYg5Y8QtNBLOSCPq-0
-
-
-liengithubpage:https://github.com/bambanourathmaimouna/Eduplaceso
-
-
-
-liengithub:https://bambanourathmaimouna.github.io/Eduplaces/
+https://www.figma.com/design/1rcSYqGZQoK4BlB0lZuiMg/EduPlace?node-id=0-1&p=f&t=pYg5Y8QtNBLOSCPq-0
+https://github.com/bambanourathmaimouna/Eduplaceso
+https://bambanourathmaimouna.github.io/Eduplaces/
